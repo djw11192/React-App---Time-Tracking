@@ -23,6 +23,6 @@
 .moleBox{
   position: absolute;
   font-size: 58px;
-  top: 90px;
-  right: 80px;
+  top: 10%;
+  right: 5%;
 }
